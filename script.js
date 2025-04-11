@@ -1,5 +1,5 @@
 const input = document.getElementById('texto');
-const botaoContar = document.getElementById('botao');
+const botaoContar = document.getElementById('botaoContar');
 const resultadoContagem = document.getElementById('resultado');
 
 function contarChar() {
