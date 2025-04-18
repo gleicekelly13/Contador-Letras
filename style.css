@@ -8,13 +8,17 @@
 }
 
 body {
+    background-image: url('letras_numeros_flutuando.png');
+    background-position: center;
+    background-attachment: fixed;
     width: 100%;
     height: 70vh;  /* Esse body ocupa 70% da altura da tela do usuário */
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(182, 233, 233);
+
 }
 
 #container {
