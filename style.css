@@ -36,7 +36,7 @@ body {
     padding: 40px;
     border-radius: 20px;
     background-color: rgba(241, 241, 239, 0.9);
-    z-index: -1;
+   
 }
 
 
@@ -58,15 +58,16 @@ button {
     padding: 10px;
     border: 1px solid #d4d3d3;
     border-radius: 8px;
-    background-color: #737d92;
-    color: #e6dbdb;
+    background-color: #52555a;
+    color: #ecedf3;
     text-transform: uppercase;
     font-size: 13px;
     font-weight: 500;
 }
 
 button:hover {
-    background-color: #b6b3b3;
+    background-color: #c0c2ca;
+    color: #52555a;
     transition: background-color 0.3s;
 }
 
