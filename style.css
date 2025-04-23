@@ -15,7 +15,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     width: 100%;
-    height: 90vh;  /* Esse body ocupa 90% da altura da tela do usuário */
+    height: 100vh;  /* Esse body ocupa 100% da altura da tela do usuário */
     
     display: flex;
     flex-direction: column;
@@ -27,7 +27,11 @@ body {
 #container {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: start;
+    width: 90vw;
+    max-width: 400px;
+    margin: auto;   /* já que o body está centralizado, isso ajuda em alguns casos */
     gap: 15px;
 }
 
@@ -84,3 +88,16 @@ button:hover {
     gap: 10px;
 }
 
+@media screen and (min-width: 425px) {
+    #container {
+       padding: 20px;  /* diminui o padding */
+    }
+
+    input {
+        width: 100%; /* ajusta o input para ocupar toda a largura disponível */
+    }
+
+    #resultados-container {
+        width: 100%; /* mesmo tratamento para os resultados */
+    }
+}
