@@ -101,3 +101,17 @@ button:hover {
         width: 100%; /* mesmo tratamento para os resultados */
     }
 }
+
+@media screen and (min-width: 320px) {  /* Quando a tela for maior ou igual a 320px */
+    #container {
+        padding: 10px;
+    }
+
+    input {
+        width: 100%; 
+    }
+
+    #resultados-container {
+        width: 100%; 
+    }
+}
