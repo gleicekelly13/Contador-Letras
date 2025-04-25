@@ -6,7 +6,7 @@
 ## :desktop_computer: Desktop design
 <br>
 <div align = "center">
-<img src = "https://github.com/user-attachments/assets/0248b23e-7f75-4a32-aef9-be25e627f8c7.png"  width = "500"/>
+<img src = "https://github.com/gleicekelly13/Contador-Letras/blob/main/contador_letras_desktop.png"  width = "500"/>
 </div>
 <br>
 
