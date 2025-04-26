@@ -10,3 +10,9 @@
 </div>
 <br>
 
+## :iphone: Mobile design
+<br>
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Contador-Letras/blob/main/contador_letras_mobile.png" width = "300" />
+</div>
+<br>
