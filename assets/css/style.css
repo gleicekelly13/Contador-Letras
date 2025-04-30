@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url('letras_numeros_flutuando.png');
+    background-image: url('/assets/images/letras_numeros_flutuando.png');
     background-color: rgba(0, 0, 0, 1);
     background-position: center;
     background-size: cover;
