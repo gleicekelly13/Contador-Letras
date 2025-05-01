@@ -3,10 +3,11 @@ const botaoContar = document.getElementById('botaoContar');
 const botaoInverter = document.getElementById('inverterOrdem');
 const resultadoContagem = document.getElementById('resultado');
 const resultadoInvertido = document.getElementById('resultado_invertido');
+const botaoLimpar = document.getElementById('limpar');
 
 function contarChar() {
     let quantidade_char = input.value.replace(/\s/g, '').length; //Remove os espaços da string e conta os caracteres
-    resultadoContagem.textContent = `O número de caracteres é: ${quantidade_char}`;
+    resultadoContagem.textContent = `Total de caracteres: ${quantidade_char}`;
 }
 
 function inverterPalavra () {
@@ -18,9 +19,14 @@ function inverterPalavra () {
     }
 
     resultadoInvertido.textContent = `A palavra '${palavra_digitada}' invertida fica: ${palavra_invertida}`;
+}
 
+function limparInputs() {
+    resultadoContagem.textContent = '';
+    resultadoInvertido.textContent = '';
     
 }
 
 botaoContar.addEventListener('click', contarChar);
 botaoInverter.addEventListener('click', inverterPalavra);
+botaoLimpar.addEventListener('click', limparInputs);
