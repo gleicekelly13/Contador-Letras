@@ -99,7 +99,7 @@ button:hover {
     margin-top: 10px;
 }
 
-@media screen and (min-width: 425px) {
+@media screen and (max-width: 425px) {
     #container {
        padding: 20px;  /* diminui o padding */
     }
@@ -108,8 +108,16 @@ button:hover {
         width: 100%; /* ajusta o input para ocupar toda a largura disponível */
     }
 
+    .botoes {
+        flex-direction: column;
+    }
+
+    #limpar {
+        width: 100%;
+    }
+
     #resultados-container {
-        width: 100%; /* mesmo tratamento para os resultados */
+        width: 100%; /* mesmo tratamento para os resultados*/
     }
 }
 
