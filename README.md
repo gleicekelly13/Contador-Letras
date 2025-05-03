@@ -32,6 +32,16 @@
 </ul>
 <br>
 
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<ul>
+  <li>Estruturação básica de um projeto web;</li>
+  <li>Manipulação de eventos em JavaScript;</li>
+  <li>Manipulação de elementos do DOM;</li>
+  <li>Operações com strings;</li>
+  <li>Estilização com CSS moderno</li>
+</ul>
+<br>
+
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <ul>
   <li>HTML5</li>
