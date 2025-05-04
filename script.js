@@ -24,7 +24,7 @@ function inverterPalavra () {
 function limparInputs() {
     resultadoContagem.textContent = '';
     resultadoInvertido.textContent = '';
-    
+    input.value = '';
 }
 
 botaoContar.addEventListener('click', contarChar);
