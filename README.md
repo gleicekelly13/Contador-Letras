@@ -42,6 +42,8 @@
 </ul>
 <br>
 
+<h2 align="center"> :file_folder: Acesso ao projeto </h2>
+
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <ul>
   <li>HTML5</li>
