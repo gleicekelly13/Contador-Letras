@@ -38,6 +38,7 @@
   <li>Manipulação de eventos em JavaScript;</li>
   <li>Manipulação de elementos do DOM;</li>
   <li>Operações com strings;</li>
+  <li>Utilização de expressões regulares (RegEx) para remover espaços em branco da string;</li>
   <li>Estilização com CSS moderno</li>
 </ul>
 <br>
