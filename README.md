@@ -39,6 +39,7 @@
   <li>Manipulação de elementos do DOM;</li>
   <li>Operações com strings;</li>
   <li>Utilização de expressões regulares (RegEx) para remover espaços em branco da string;</li>
+  <li>Implementação de lógica de laço para inversão de texto caractere por caractere;</li>
   <li>Estilização com CSS moderno</li>
 </ul>
 <br>
