@@ -31,7 +31,7 @@ body {
     align-items: start;
     width: 90vw;
     max-width: 400px;
-    margin: auto;   /* já que o body está centralizado, isso ajuda em alguns casos */
+    margin: auto;   /* Já que o body está centralizado, isso ajuda em alguns casos */
     gap: 15px;
 }
 
@@ -101,11 +101,11 @@ button:hover {
 
 @media screen and (max-width: 425px) {
     #container {
-       padding: 20px;  /* diminui o padding */
+       padding: 20px;  /* Diminui o padding */
     }
 
     input {
-        width: 100%; /* ajusta o input para ocupar toda a largura disponível */
+        width: 100%; /* Ajusta o input para ocupar toda a largura disponível */
     }
 
     .botoes {
@@ -117,7 +117,7 @@ button:hover {
     }
 
     #resultados-container {
-        width: 100%; /* mesmo tratamento para os resultados*/
+        width: 100%; /* Mesmo tratamento para os resultados*/
     }
 }
 
