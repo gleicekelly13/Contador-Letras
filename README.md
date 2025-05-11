@@ -27,7 +27,7 @@
   <li>Entrada de texto: Campo para o usuário digitar qualquer palavra ou frase;</li>
   <li>Contagem de letras: Conta apenas as letras (ignorando espaços e pontuação) e exibe o total;</li>
   <li>Inverter letras: Inverte a ordem das letras do texto digitado;</li>
-  <li>Limpar campos: Limpa os resultados exibidos;</li>
+  <li>Limpar campos: Limpa tanto o campo de texto quanto os resultados exibidos;</li>
   <li>Responsivo: Adaptado para diferentes tamanhos de tela.</li>
 </ul>
 <br>
@@ -38,8 +38,14 @@
   <li>Manipulação de eventos em JavaScript;</li>
   <li>Manipulação de elementos do DOM;</li>
   <li>Operações com strings;</li>
+  <li>Utilização de expressões regulares (RegEx) para remover espaços em branco da string;</li>
+  <li>Implementação de lógica de laço para inversão de texto caractere por caractere;</li>
   <li>Estilização com CSS moderno</li>
 </ul>
+<br>
+
+<h2 align="center"> :file_folder: Acesso ao projeto </h2>
+<p> Você pode acessar o projeto final clicando aqui: https://gleicekelly13.github.io/Contador-Letras/ </p>
 <br>
 
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
