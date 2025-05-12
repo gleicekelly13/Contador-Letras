@@ -26,7 +26,7 @@
 <ul>
   <li>Entrada de texto: Campo para o usuário digitar qualquer palavra ou frase;</li>
   <li>Contagem de letras: Conta apenas as letras (ignorando espaços e pontuação) e exibe o total;</li>
-  <li>Inverter letras: Inverte a ordem das letras do texto digitado;</li>
+  <li>Inverter letras: Inverte a ordem das letras do texto digitado e exibe a palavra invertida;</li>
   <li>Limpar campos: Limpa tanto o campo de texto quanto os resultados exibidos;</li>
   <li>Responsivo: Adaptado para diferentes tamanhos de tela.</li>
 </ul>
