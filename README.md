@@ -34,7 +34,7 @@
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <ul>
-  <li>Estruturação básica de um projeto web;</li>
+  <li>Organização e estruturação básica de um projeto web;</li>
   <li>Manipulação de eventos em JavaScript;</li>
   <li>Manipulação de elementos do DOM;</li>
   <li>Operações com strings;</li>
