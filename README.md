@@ -36,7 +36,7 @@
 <ul>
   <li>Organização e estruturação básica de um projeto web;</li>
   <li>Manipulação de eventos em JavaScript para interatividade com o usuário;</li>
-  <li>Manipulação de elementos do DOM;</li>
+  <li>Manipulação de elementos do DOM para atualizar conteúdos dinamicamente;</li>
   <li>Operações com strings;</li>
   <li>Utilização de expressões regulares (RegEx) para remover espaços em branco da string;</li>
   <li>Implementação de lógica de laço para inversão de texto caractere por caractere;</li>
