@@ -39,7 +39,7 @@
   <li>Manipulação de elementos do DOM para atualizar conteúdos dinamicamente;</li>
   <li>Operações com strings;</li>
   <li>Utilização de expressões regulares (RegEx) para remover espaços em branco da string;</li>
-  <li>Implementação de lógica de laço para inversão de texto caractere por caractere;</li>
+  <li>Implementação de lógica de laço de repetição para percorrer strings e inversão de texto caractere por caractere;</li>
   <li>Estilização com CSS moderno</li>
 </ul>
 <br>
