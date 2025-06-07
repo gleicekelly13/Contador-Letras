@@ -26,7 +26,7 @@
 <ul>
   <li>Entrada de texto: Campo para o usuário digitar qualquer palavra ou frase;</li>
   <li>Contagem de letras: Conta apenas as letras (ignorando espaços e pontuação) e exibe o total;</li>
-  <li>Inverter letras: Inverte a ordem das letras do texto digitado;</li>
+  <li>Inverter letras: Inverte a ordem das letras do texto digitado e exibe a palavra invertida;</li>
   <li>Limpar campos: Limpa tanto o campo de texto quanto os resultados exibidos;</li>
   <li>Responsivo: Adaptado para diferentes tamanhos de tela.</li>
 </ul>
@@ -34,12 +34,12 @@
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <ul>
-  <li>Estruturação básica de um projeto web;</li>
-  <li>Manipulação de eventos em JavaScript;</li>
-  <li>Manipulação de elementos do DOM;</li>
+  <li>Organização e estruturação básica de um projeto web;</li>
+  <li>Manipulação de eventos em JavaScript para interatividade com o usuário;</li>
+  <li>Manipulação de elementos do DOM para atualizar conteúdos dinamicamente;</li>
   <li>Operações com strings;</li>
   <li>Utilização de expressões regulares (RegEx) para remover espaços em branco da string;</li>
-  <li>Implementação de lógica de laço para inversão de texto caractere por caractere;</li>
+  <li>Implementação de lógica de laço de repetição para percorrer strings e inversão de texto caractere por caractere;</li>
   <li>Estilização com CSS moderno</li>
 </ul>
 <br>
