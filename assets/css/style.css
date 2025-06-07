@@ -42,9 +42,10 @@ body {
    
 }
 
-
 h1 {
+    width: 100%;
     color: #3f3d3d;
+    text-align: center;
 }
 
 input {
